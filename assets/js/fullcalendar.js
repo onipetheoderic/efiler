@@ -45,7 +45,7 @@ $(function() {
         id: '6',
         start: curYear+'-'+curMonth+'-08T13:00:00',
         end: curYear+'-'+curMonth+'-08T18:30:00',
-        title: 'Carl Henson\'s Wedding',
+        title: 'Fatimah Idris\'s Wedding',
         description: 'In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis az pede mollis...'
       }
     ]
